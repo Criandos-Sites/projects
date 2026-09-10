@@ -1,0 +1,50 @@
+name: Compartilhar um projeto
+description: Sugira uma página criada por você ou por alguém da comunidade.
+title: "[Projeto] "
+labels:
+  - projeto
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por compartilhar! O link do código é opcional.
+  - type: input
+    id: name
+    attributes:
+      label: Nome do projeto
+      placeholder: Site da Padaria Aurora
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link da página publicada
+      placeholder: https://meusite.com.br
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição curta
+      placeholder: Conte em poucas palavras o que foi criado.
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Nome do criador (opcional)
+      placeholder: Como deve aparecer na vitrine
+  - type: input
+    id: code
+    attributes:
+      label: Link do código (opcional)
+      description: Deixe em branco se o código for privado ou não estiver disponível.
+      placeholder: https://github.com/usuario/projeto
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Permissão
+      options:
+        - label: Autorizo a divulgação desta página na vitrine pública da comunidade.
+          required: true
+

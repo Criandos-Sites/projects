@@ -20,3 +20,4 @@ O código-fonte **não é obrigatório**. O projeto pode ser incluído mesmo qua
 
 Os projetos aprovados entram no arquivo [`projects.json`](./projects.json). A página pública lê esse arquivo automaticamente.
 
+O arquivo [`links.json`](./links.json) reúne todos os links únicos encontrados no histórico exportado do grupo, organizados por categoria. O arquivo [`github-links.json`](./github-links.json) contém somente os links do GitHub.

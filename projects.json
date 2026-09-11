@@ -1,2 +1,648 @@
-[]
-
+[
+  {
+    "name": "Daniel Cruz Site",
+    "url": "https://daniel-cruz-site.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Daniel Cruz"
+  },
+  {
+    "name": "Psicoellenmoreira",
+    "url": "https://psicoellenmoreira.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Pousodarita",
+    "url": "https://pousodarita.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade."
+  },
+  {
+    "name": "Vertice Contabilidade Vert",
+    "url": "https://vertice-contabilidade-vert.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Isaac Celso"
+  },
+  {
+    "name": "Advenivaldorodrigues",
+    "url": "https://advenivaldorodrigues.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Althepaintercld",
+    "url": "https://althepaintercld.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Yago I Master Digital"
+  },
+  {
+    "name": "Althepainterco",
+    "url": "https://althepainterco.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Yago I Master Digital"
+  },
+  {
+    "name": "Adfsolucoesdigital",
+    "url": "https://adfsolucoesdigital.com.br",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Arthur Dias"
+  },
+  {
+    "name": "Eduardosites",
+    "url": "https://eduardosites.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Eduardo"
+  },
+  {
+    "name": "Synchr",
+    "url": "https://synchr.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Luiz Pansarini"
+  },
+  {
+    "name": "Althepainterllc",
+    "url": "https://althepainterllc.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Yago I Master Digital"
+  },
+  {
+    "name": "Psicoemillyoliveira",
+    "url": "https://psicoemillyoliveira.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Eduardolp",
+    "url": "https://eduardolp.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Eduardo"
+  },
+  {
+    "name": "Advmariaeduarda",
+    "url": "https://advmariaeduarda.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Lincoln Barros",
+    "url": "https://lincoln-barros.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade."
+  },
+  {
+    "name": "Dra Daniela Carvalho",
+    "url": "https://dra-daniela-carvalho.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Caio Borges"
+  },
+  {
+    "name": "Sayty Solucoes Digitais",
+    "url": "https://sayty-solucoes-digitais.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Daniel Dutra"
+  },
+  {
+    "name": "Sitebruno Mu",
+    "url": "https://sitebruno-mu.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "juan"
+  },
+  {
+    "name": "Studio Magnolia",
+    "url": "https://studio-magnolia.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Robby G."
+  },
+  {
+    "name": "Laura Dermato",
+    "url": "https://laura-dermato.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "João Guilherme"
+  },
+  {
+    "name": "Valquiria Psicologa",
+    "url": "https://valquiria-psicologa.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Isaac Celso"
+  },
+  {
+    "name": "Vertice Arquiteto",
+    "url": "https://vertice-arquiteto.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Kaleb"
+  },
+  {
+    "name": "Giovana Novello",
+    "url": "https://giovana-novello.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "giovani"
+  },
+  {
+    "name": "Gabriel Costa Nutricionista",
+    "url": "https://gabriel-costa-nutricionista.vercel.app?v=3",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Daniel Dutra"
+  },
+  {
+    "name": "Fitflow Ia",
+    "url": "https://fitflow-ia.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Victor"
+  },
+  {
+    "name": "Marceloviniciusfotografia",
+    "url": "https://marceloviniciusfotografia.netlify.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Larissa Santos"
+  },
+  {
+    "name": "Manga Nutricao",
+    "url": "https://manga-nutricao.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Bruno"
+  },
+  {
+    "name": "Psi Leticia Freitas",
+    "url": "https://psi-leticia-freitas.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Siteiegcoleioecurso 4Dxf",
+    "url": "https://siteiegcoleioecurso-4dxf.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Fernandes"
+  },
+  {
+    "name": "Anna Livia Site",
+    "url": "https://anna-livia-site.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Daniel Cruz"
+  },
+  {
+    "name": "Meuportfoliocarlos",
+    "url": "https://meuportfoliocarlos.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Carlos"
+  },
+  {
+    "name": "Adv Andre Luis",
+    "url": "https://adv-andre-luis.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Tiagohortafotografo",
+    "url": "https://tiagohortafotografo.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Portfolio Cristian Vieira",
+    "url": "https://portfolio-cristian-vieira.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Cristian Vieira"
+  },
+  {
+    "name": "Portfoliogustavosan",
+    "url": "https://portfoliogustavosan.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Yago I Master Digital"
+  },
+  {
+    "name": "Norean",
+    "url": "https://norean.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Kaleb"
+  },
+  {
+    "name": "Victortech1",
+    "url": "https://victortech1.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Victor"
+  },
+  {
+    "name": "Pena De Ouro",
+    "url": "https://pena-de-ouro.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Rodrigo Ribeiro"
+  },
+  {
+    "name": "Clinica Humanitare",
+    "url": "https://clinica-humanitare.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Gabriel"
+  },
+  {
+    "name": "Jeanesantana",
+    "url": "https://jeanesantana.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Fernandes"
+  },
+  {
+    "name": "Psic Mariana Demo",
+    "url": "https://psic-mariana-demo.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Edu"
+  },
+  {
+    "name": "Positionsprint",
+    "url": "https://positionsprint.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Cristian Vieira"
+  },
+  {
+    "name": "Argosolucoesinteligentes",
+    "url": "https://argosolucoesinteligentes.com.br",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Fabio dos Santos"
+  },
+  {
+    "name": "Biscoitodasorte",
+    "url": "https://biscoitodasorte.xyz",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Leonardo"
+  },
+  {
+    "name": "Mileniumquadros",
+    "url": "https://mileniumquadros.com.br",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "moisés"
+  },
+  {
+    "name": "Segundo Site Novakar",
+    "url": "https://segundo-site-novakar.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Stef"
+  },
+  {
+    "name": "Retrogarage",
+    "url": "https://retrogarage.netlify.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Luis Roberto Outframe.Dev"
+  },
+  {
+    "name": "Ron Tatoo",
+    "url": "https://ron-tatoo.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Seikaengenharia",
+    "url": "https://seikaengenharia.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Eduardo"
+  },
+  {
+    "name": "Bellatech",
+    "url": "https://bellatech.netlify.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Orlando Araújo"
+  },
+  {
+    "name": "Lumion Tech",
+    "url": "https://lumion-tech.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Victor"
+  },
+  {
+    "name": "Alliancecontabilidade",
+    "url": "https://alliancecontabilidade.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Fernandes"
+  },
+  {
+    "name": "Sitejuceliosilva",
+    "url": "https://sitejuceliosilva.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "SieL"
+  },
+  {
+    "name": "Sitejuceliosilva2",
+    "url": "https://sitejuceliosilva2.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "SieL"
+  },
+  {
+    "name": "Gracie Barra Pirituba",
+    "url": "https://gracie-barra-pirituba.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Stef"
+  },
+  {
+    "name": "Fort Energia Solar One",
+    "url": "https://fort-energia-solar-one.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Tambauseguradora",
+    "url": "https://tambauseguradora.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Fernandes"
+  },
+  {
+    "name": "Convec Solar",
+    "url": "https://convec-solar.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Sitelumafer",
+    "url": "https://sitelumafer.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Hélcio"
+  },
+  {
+    "name": "Amvision Eta",
+    "url": "https://amvision-eta.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Lucas Aires"
+  },
+  {
+    "name": "Koamvp",
+    "url": "https://koamvp.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "João Marcelo"
+  },
+  {
+    "name": "Angelomigueldev",
+    "url": "https://angelomigueldev.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Angelomigueldev",
+    "url": "https://angelomigueldev.vercel.app/solucoes",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Eduardoribeiro",
+    "url": "https://eduardoribeiro.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Eduardo"
+  },
+  {
+    "name": "La Belle Nail Studio",
+    "url": "https://la-belle-nail-studio.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Jonathan"
+  },
+  {
+    "name": "Carpelo Caffe",
+    "url": "https://carpelo-caffe.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Stef"
+  },
+  {
+    "name": "Dvino",
+    "url": "https://dvino.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Marcelo H."
+  },
+  {
+    "name": "Portfoliosolucoesanny",
+    "url": "https://portfoliosolucoesanny.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Lp Pet Caetano",
+    "url": "https://lp-pet-caetano.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Fabio dos Santos"
+  },
+  {
+    "name": "Achedominio0",
+    "url": "https://achedominio0.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Luis Roberto Outframe.Dev"
+  },
+  {
+    "name": "Bella Menina Garoto Prodigio",
+    "url": "https://bella-menina-garoto-prodigio.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Luara"
+  },
+  {
+    "name": "Wubbert Aguiar",
+    "url": "https://wubbert-aguiar.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Principe Dos Pets",
+    "url": "https://principe-dos-pets.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Consultoriaalecrim",
+    "url": "https://consultoriaalecrim.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Anny🇮🇹"
+  },
+  {
+    "name": "Zarahflor",
+    "url": "https://zarahflor.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Edu"
+  },
+  {
+    "name": "Previaquegeadv",
+    "url": "https://previaquegeadv.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Júlia Hendler"
+  },
+  {
+    "name": "Edupinheiro",
+    "url": "https://edupinheiro.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Edu"
+  },
+  {
+    "name": "Victorgotfrid",
+    "url": "https://victorgotfrid.com/pt",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Victor Gotfrid"
+  },
+  {
+    "name": "Site Dentista Smile",
+    "url": "https://site-dentista-smile.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Stef"
+  },
+  {
+    "name": "Site Dentista Smile 433L96Oaq Nihon2",
+    "url": "https://site-dentista-smile-433l96oaq-nihon2.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Stef"
+  },
+  {
+    "name": "Odontotche",
+    "url": "https://odontotche.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Douglas Ferreira"
+  },
+  {
+    "name": "Seven Cambio Automatico",
+    "url": "https://seven-cambio-automatico.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "TWODEVS"
+  },
+  {
+    "name": "Taurusgymfitness",
+    "url": "https://taurusgymfitness.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Lucas Freitas"
+  },
+  {
+    "name": "Viva Espaco Beleza",
+    "url": "https://viva-espaco-beleza.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Luis Forasteiro"
+  },
+  {
+    "name": "Drbrenogonzaga",
+    "url": "https://drbrenogonzaga.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "TWODEVS"
+  },
+  {
+    "name": "Caneca Unicornio",
+    "url": "https://caneca-unicornio.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Luis Roberto Outframe.Dev"
+  },
+  {
+    "name": "Dr Heberson Capilar",
+    "url": "https://dr-heberson-capilar.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Gauchopampasurvival",
+    "url": "https://gauchopampasurvival.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Rodrigo Ribeiro"
+  },
+  {
+    "name": "Despachante Sel",
+    "url": "https://despachante-sel.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Leandro"
+  },
+  {
+    "name": "Marcilennyimoveis",
+    "url": "https://marcilennyimoveis.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Guilherme Felix"
+  },
+  {
+    "name": "Ana Estrela Estetica",
+    "url": "https://ana-estrela-estetica.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Miguel"
+  },
+  {
+    "name": "Thx Portfolio",
+    "url": "https://thx-portfolio.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "joao"
+  },
+  {
+    "name": "Guilhermefelix",
+    "url": "https://guilhermefelix.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Guilherme Felix"
+  },
+  {
+    "name": "Ele Vai Te Assumir",
+    "url": "https://ele-vai-te-assumir.lovable.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Victor Gotfrid"
+  },
+  {
+    "name": "Sitemarcosmoraes",
+    "url": "https://sitemarcosmoraes.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Marcos Moraes"
+  },
+  {
+    "name": "Italomedeirospro",
+    "url": "https://italomedeirospro.my.canva.site",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Guilherme Felix"
+  },
+  {
+    "name": "Portf Liobrisolaagencia",
+    "url": "https://portf-liobrisolaagencia.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Yuri Santos"
+  },
+  {
+    "name": "Sagel Comercio",
+    "url": "https://sagel-comercio.pages.dev",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Theo Oliveira"
+  },
+  {
+    "name": "Sohubs",
+    "url": "https://sohubs.com.br",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Victor Farias"
+  },
+  {
+    "name": "Calculai Steel",
+    "url": "https://calculai-steel.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Thomas"
+  },
+  {
+    "name": "Drcurt",
+    "url": "https://drcurt.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Déborah"
+  },
+  {
+    "name": "Cafezinespecial",
+    "url": "https://cafezinespecial.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Gustavo Pinheiro"
+  },
+  {
+    "name": "Site Total Inc",
+    "url": "https://site-total-inc.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Adryan"
+  },
+  {
+    "name": "Info Projekt",
+    "url": "https://info-projekt.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Adryan"
+  },
+  {
+    "name": "Sitemedico",
+    "url": "https://sitemedico.vercel.app",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Déborah"
+  },
+  {
+    "name": "Morape",
+    "url": "https://morape.framer.website",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Williams Costa"
+  },
+  {
+    "name": "Lnbits",
+    "url": "https://lnbits.github.io/hardware-wallet/installer?board=esp32_2432s028r",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Leonardo"
+  },
+  {
+    "name": "Agstudio",
+    "url": "https://agstudio.pages.dev",
+    "description": "Página ou aplicação apresentada por um participante da comunidade.",
+    "author": "Augusto Vargas Póvoa"
+  }
+]

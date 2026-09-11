@@ -4,14 +4,14 @@
     "url": "https://claude.ai/referral/ugVjUtfNkw",
     "description": "You've been invited to try Claude",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "deepswe.datacurve.ai",
     "url": "https://deepswe.datacurve.ai",
     "description": "DeepSWE measures frontier coding agents on original, long-horizon software engineering tasks.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "dev juninho (@devjuninho) on X",
@@ -32,7 +32,7 @@
     "url": "https://medium.com/@creativeaininja/pxpipe-cuts-your-claude-code-token-bill-by-turning-context-into-images-58637572ba82",
     "description": "A local proxy renders your bulky context as PNGs before it leaves your machine, because Claude charges for an image by its pixel…",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "GitHub · VictorTaelin/OptMem",
@@ -105,88 +105,94 @@
     "category": "redes-sociais"
   },
   {
-    "name": "daniel-cruz-site.vercel.app",
+    "name": "Daniel Cruz Site",
     "url": "https://daniel-cruz-site.vercel.app",
     "description": "Sites para quem fecha no WhatsApp. De Petrolina-PE para todo o Brasil, no ar em 3 dias úteis.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "comercio",
+    "author": "Daniel Cruz"
   },
   {
     "name": "geminicli.com",
     "url": "https://geminicli.com",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
-    "name": "psicoellenmoreira.vercel.app",
+    "name": "Psicoellenmoreira",
     "url": "https://psicoellenmoreira.vercel.app",
     "description": "Atendimento psicológico presencial em Silvânia-GO e online para todo o Brasil. TCC, Neuropsicologia e Avaliação Psicológica.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Anny🇮🇹"
   },
   {
-    "name": "pousodarita.vercel.app",
+    "name": "Pousodarita",
     "url": "https://pousodarita.vercel.app",
     "description": "Pousada familiar no coração de Tiradentes-MG. Acolhimento da Dona Rita, café da manhã mineiro feito em casa e a 500m do Centro Histórico. Consulte disponibilidade pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "alimentacao"
   },
   {
-    "name": "vertice-contabilidade-vert.vercel.app",
+    "name": "Vertice Contabilidade Vert",
     "url": "https://vertice-contabilidade-vert.vercel.app",
     "description": "Contabilidade consultiva para empresas de serviços em Campinas.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Isaac Celso"
   },
   {
     "name": "espacoequilibriumm.com.br",
     "url": "https://espacoequilibriumm.com.br",
     "description": "Clínica de saúde integrada em Silvânia, GO, com Fisioterapia, Pilates, RPG, Acupuntura, Psicologia, Nutrição e exercício físico. Agende pelo WhatsApp.",
     "type": "links",
-    "category": "design"
+    "category": "desenvolvimento"
   },
   {
     "name": "vemnahora.com",
     "url": "https://vemnahora.com",
     "description": "Publique seu link, cobre sinal e deixe o cliente confirmar o horário sozinho. Agenda online para WhatsApp, salão, barbearia, estética e serviços locais.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "afiliado.vemnahora.com",
     "url": "https://afiliado.vemnahora.com",
     "description": "Publique seu link, cobre sinal e deixe o cliente confirmar o horário sozinho. Agenda online para WhatsApp, salão, barbearia, estética e serviços locais.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
-    "name": "advenivaldorodrigues.vercel.app",
+    "name": "Advenivaldorodrigues",
     "url": "https://advenivaldorodrigues.vercel.app",
     "description": "Advocacia estratégica em Brasília e online para empresas, patrimônio, inventário, superendividamento e demandas previdenciárias.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Anny🇮🇹"
   },
   {
     "name": "play.buildar.fun · Game B0A678E0 6F22 4381 9372 009C237Dcca2",
     "url": "https://play.buildar.fun/c3b/game-b0a678e0-6f22-4381-9372-009c237dcca2",
     "description": "Referência de design, interface ou experiência do usuário.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
-    "name": "althepaintercld.vercel.app",
+    "name": "Althepaintercld",
     "url": "https://althepaintercld.vercel.app",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Yago I Master Digital"
   },
   {
-    "name": "althepainterco.vercel.app",
+    "name": "Althepainterco",
     "url": "https://althepainterco.vercel.app",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Yago I Master Digital"
   },
   {
     "name": "Nett0 (@nett0eth) on X",
@@ -207,7 +213,7 @@
     "url": "https://v0.app/templates/landing-pages",
     "description": "Explore landing page templates built with v0. Launch high-converting pages with responsive layouts and on-brand design.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "(@annydev_) • Instagram photos and videos",
@@ -235,21 +241,21 @@
     "url": "https://outframe.dev",
     "description": "A Outframe desenvolve sistemas sob medida, integração com ERP, CRMs, dashboards, automações e portais para empresas — além dos sites que sustentam a venda. Código próprio, sem licença por usuário.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "escavador.com · Api",
     "url": "https://escavador.com/business/api",
     "description": "Facilite rotinas jurídicas com praticidade, eficiência e segurança.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "diagnostico.somosalys.co",
     "url": "https://diagnostico.somosalys.co",
     "description": "Diagnóstico estratégico de carreira feito por recrutadores especializados para entender como seu perfil, trajetória, currículo, LinkedIn e posicionamento chegam ao mercado.",
     "type": "links",
-    "category": "referencias"
+    "category": "negocios"
   },
   {
     "name": "dnschecker.org",
@@ -263,7 +269,7 @@
     "url": "https://vintepila.com.br",
     "description": "Descubra a plataforma que valoriza a criatividade local. Escolha a VintePila para acesso fácil a talentos brasileiros, PIX, parcelamentos e uma jornada digital simplificada.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "huggingface.co · Parakeet Tdt 0.6B V3",
@@ -284,7 +290,7 @@
     "url": "https://namethatui.com",
     "description": "See the UI element, learn its real name and API symbol, and copy a precise prompt for your coding agent.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "danielcruzsites.com.br",
@@ -298,28 +304,28 @@
     "url": "https://check.aeojs.org",
     "description": "Free AEO & GEO readiness scanner for ChatGPT, Perplexity, Google AI Overviews, and Bing Copilot.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "isitagentready.com",
     "url": "https://isitagentready.com",
     "description": "Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "searchenginejournal.com",
     "url": "https://searchenginejournal.com/googles-mueller-says-llms-txt-cant-help-llms-differentiate-sites/579304",
     "description": "Mueller argues LLM systems can't use llms.txt to differentiate between websites for discovery. He sees a narrow role once an agent is already on a site.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "skills.sh · Landing Page Design",
     "url": "https://skills.sh/101-skills/skills/landing-page-design",
     "description": "Landing page conversion optimization with layout rules, hero section design, and CTA psychology. Covers above-the-fold formula, social proof placement, mobile…",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "Guilherme Vasques (@Ga_Vasques) on X",
@@ -333,14 +339,14 @@
     "url": "https://gigabyteinformatica.com.br/mesa-gamer-thunderx3-ed5-v2-pt-p3837?srsltid=AfmBOopDkbjxtDwllkohpuIrmVmwrNWM_oI6JqiseOLlJh9wtiYMB_KtVjE",
     "description": "Referência de design, interface ou experiência do usuário.",
     "type": "links",
-    "category": "design"
+    "category": "seo-performance"
   },
   {
     "name": "adsrevel.site",
     "url": "https://adsrevel.site",
     "description": "Landing pages, tráfego pago, social media, criativos e presença no Google para empresas em todo o Brasil.",
     "type": "links",
-    "category": "referencias"
+    "category": "negocios"
   },
   {
     "name": "Deluca → UGC pra SaaS (@delucainc_) on X",
@@ -350,25 +356,26 @@
     "category": "redes-sociais"
   },
   {
-    "name": "adfsolucoesdigital.com.br",
+    "name": "Adfsolucoesdigital",
     "url": "https://adfsolucoesdigital.com.br",
     "description": "Desenvolvimento web sob medida, e-commerce VTEX & Deco.cx e consultoria técnica em UI/UX. Performance otimizada e resultados mensuráveis em São Paulo.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Arthur Dias"
   },
   {
     "name": "open.spotify.com · 3Fibizbkybvtmdod5U2Npm",
     "url": "https://open.spotify.com/track/3fibIzbkYbvTmdoD5u2nPm?si=Z8KrSup2QeK1Yakep2VRuw&utm_source=copy-link&sci=spotify%3Acard-config%3A465lxkrkklGSbtYNsfSRgz",
     "description": "Lady Gaga · ARTPOP · Song · 2013",
     "type": "links",
-    "category": "marketing"
+    "category": "referencias"
   },
   {
     "name": "chatgpt.com",
     "url": "https://chatgpt.com/g/g-6a2bf689ec1881918ef70e571d6bd2af-prospector-do-juninho",
     "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "dralauraferreiradesa.com.br",
@@ -382,7 +389,7 @@
     "url": "https://matriculas.escolinhapingodegente.com.br",
     "description": "Creche, berçário e educação infantil bilíngue (do Kindergarten Baby ao K4) em Pirituba (SP). Inglês diário, música, judô, ballet e robótica, câmeras ao vivo no berçário e ambiente seguro. Matrículas abertas: agende uma visita pelo WhatsApp.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "dribbble.com",
@@ -403,98 +410,98 @@
     "url": "https://magicui.design/docs/components/confetti",
     "description": "Confetti animations are best used to delight your users when something special happens",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "scrollxui.dev · Components",
     "url": "https://scrollxui.dev/docs/components",
     "description": "A collection of beautifully crafted UI components in ScrollX UI.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "21st.dev · Components",
     "url": "https://21st.dev/community/components",
     "description": "Explore, copy, and remix thousands of high-quality React components published to the 21st Community by designers and developers.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "ui.aceternity.com",
     "url": "https://ui.aceternity.com",
     "description": "Aceternity UI is a React component library with 200+ copy-paste components, blocks, and landing page templates built with Tailwind CSS and Motion.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "magicui.design",
     "url": "https://magicui.design",
     "description": "Beautiful UI components and templates to make your landing page look stunning.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "reactbits.dev",
     "url": "https://reactbits.dev",
     "description": "An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
     "type": "links",
-    "category": "desenvolvimento"
+    "category": "design-ui"
   },
   {
     "name": "vengenceui.com · Components",
     "url": "https://vengenceui.com/components",
     "description": "Browse the animated component catalog for Vengeance UI.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "spell.sh · Components",
     "url": "https://spell.sh/docs/components",
     "description": "Browse all available components in Spell UI.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "chanhdai.com · Components",
     "url": "https://chanhdai.com/components",
     "description": "Pixel-perfect, uniquely crafted.",
     "type": "links",
-    "category": "ia"
+    "category": "design-ui"
   },
   {
     "name": "satisui.xyz",
     "url": "https://satisui.xyz",
     "description": "Referência de design, interface ou experiência do usuário.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "ui.watermelon.sh · Animated Components",
     "url": "https://ui.watermelon.sh/animated-components",
     "description": "A collection of high-quality React components, dashboards, and UI blocks. Copy and paste production-ready UI with ease.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "ui.unlumen.com · Components",
     "url": "https://ui.unlumen.com/components",
     "description": "A curated registry of beautifully designed React components built with TypeScript, Tailwind CSS and Motion. Install with the shadcn CLI and build refined interfaces faster.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "heroui.com · Components",
     "url": "https://heroui.com/en/docs/react/components",
     "description": "Browse accessible HeroUI React components for forms, overlays, navigation, data display, and more, built with React Aria and Tailwind CSS v4.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "coss.com · Ui",
     "url": "https://coss.com/ui",
     "description": "Built for developers and AI.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "penflow.cretu.dev",
@@ -508,21 +515,23 @@
     "url": "https://motion-core.dev",
     "description": "Svelte-native motion toolkit with GSAP and OGL-powered components, demos, and CLI-driven workflows.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
-    "name": "eduardosites.vercel.app",
+    "name": "Eduardosites",
     "url": "https://eduardosites.vercel.app",
     "description": "Landing pages e sites profissionais, rápidos e responsivos, desenvolvidos por Eduardo Simionato para transformar visitas em contatos.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Eduardo"
   },
   {
-    "name": "synchr.vercel.app",
+    "name": "Synchr",
     "url": "https://synchr.vercel.app",
     "description": "syncHR is a Boston-based HR technology consulting firm. We help startups and enterprise teams select, implement, and optimize ATS/HRIS systems.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Luiz Pansarini"
   },
   {
     "name": "cabecagrande.com",
@@ -532,18 +541,19 @@
     "category": "referencias"
   },
   {
-    "name": "althepainterllc.vercel.app",
+    "name": "Althepainterllc",
     "url": "https://althepainterllc.vercel.app",
     "description": "Real interior, exterior, cabinetry, and refinishing work backed by 25+ years of experience across Greater Boston and MetroWest.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Yago I Master Digital"
   },
   {
     "name": "sptecinformatica.com.br",
     "url": "https://sptecinformatica.com.br",
     "description": "Venda e manutenção de balanças, impressoras NFC-e, leitores, gavetas, pin pads e frente de caixa. Autorizada INMETRO · Toledo, Elgin e Urano.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "osmo.supply · Plans",
@@ -557,7 +567,7 @@
     "url": "https://codegrid.gumroad.com/l/codegridpro",
     "description": "One subscription, endless web design.Here's what the PRO membership offers: Exclusive Source Code Access: Delve into coding without clutter. Access the source code for every tutorial published on the Codegrid YouTube channel and build elega",
     "type": "links",
-    "category": "desenvolvimento"
+    "category": "design-ui"
   },
   {
     "name": "linkedin.com",
@@ -578,21 +588,22 @@
     "url": "https://flaticon.com/br/icones-animados",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "lucide.dev",
     "url": "https://lucide.dev",
     "description": "Beautiful & consistent icon toolkit made by the community.",
     "type": "links",
-    "category": "design"
+    "category": "referencias"
   },
   {
-    "name": "psicoemillyoliveira.vercel.app",
+    "name": "Psicoemillyoliveira",
     "url": "https://psicoemillyoliveira.vercel.app",
     "description": "Psicologia com escuta, acolhimento e presença. Atendimentos online e presenciais em Pernambuco.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Anny🇮🇹"
   },
   {
     "name": "so-da-play.fly.dev",
@@ -606,7 +617,7 @@
     "url": "https://buildar.fun",
     "description": "Referência de design, interface ou experiência do usuário.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "Blender Donut Tutorial Part 1 (2026)",
@@ -627,28 +638,30 @@
     "url": "https://vercel.com/docs/domains/working-with-domains/add-a-domain",
     "description": "Learn how to add a custom domain to your Vercel project, verify it, and correctly set the DNS or Nameserver values.",
     "type": "links",
-    "category": "ia"
+    "category": "referencias"
   },
   {
-    "name": "eduardolp.vercel.app",
+    "name": "Eduardolp",
     "url": "https://eduardolp.vercel.app",
     "description": "Landing pages e sites profissionais, rápidos e responsivos, desenvolvidos por Eduardo Simionato para transformar visitas em contatos.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Eduardo"
   },
   {
     "name": "luis.outframe.dev",
     "url": "https://luis.outframe.dev",
     "description": "Desenvolvedor Web e fundador da Outframe. Crio sites, sistemas e aplicativos sob medida para empresas (B2B) e para o consumidor final (B2C). +20 projetos entregues.",
     "type": "links",
-    "category": "design"
+    "category": "desenvolvimento"
   },
   {
-    "name": "advmariaeduarda.vercel.app",
+    "name": "Advmariaeduarda",
     "url": "https://advmariaeduarda.vercel.app",
     "description": "Soluções jurídicas ágeis e sem burocracia. Divórcio, Pensão, BPC/LOAS e Direitos Trabalhistas. Atendimento presencial e online.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Anny🇮🇹"
   },
   {
     "name": "lincolnadvogado.com.br",
@@ -658,46 +671,49 @@
     "category": "referencias"
   },
   {
-    "name": "lincoln-barros.vercel.app",
+    "name": "Lincoln Barros",
     "url": "https://lincoln-barros.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade"
   },
   {
     "name": "chromewebstore.google.com · Blipmdconlkpinefehnmjammfjpmpbjk",
     "url": "https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br",
     "description": "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.",
     "type": "links",
-    "category": "ia"
+    "category": "seo-performance"
   },
   {
-    "name": "dra-daniela-carvalho.vercel.app",
+    "name": "Dra Daniela Carvalho",
     "url": "https://dra-daniela-carvalho.vercel.app",
     "description": "Endocrinologia e Nutrologia em Três Pontas. Tratamento de obesidade, tireoide, diabetes e reposição hormonal. Presencial e online. Agende pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Caio Borges"
   },
   {
-    "name": "sayty-solucoes-digitais.vercel.app",
+    "name": "Sayty Solucoes Digitais",
     "url": "https://sayty-solucoes-digitais.vercel.app",
     "description": "Tecnologia humana, estratégica e feita sob medida.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Daniel Dutra"
   },
   {
     "name": "paulosantanna.com",
     "url": "https://paulosantanna.com/2026/07/09/aws-lanca-campanha-para-conquistar-duas-certificacoes-pagando-menos",
     "description": "Aproveite a promoção da AWS: 50% de desconto na certificação AWS Certified AI Practitioner e ganhe um voucher para a AWS Certified Cloud Practitioner.",
     "type": "links",
-    "category": "design"
+    "category": "ia-automacao"
   },
   {
-    "name": "sitebruno-mu.vercel.app",
+    "name": "Sitebruno Mu",
     "url": "https://sitebruno-mu.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "juan"
   },
   {
     "name": "GitHub · rtk-ai/rtk",
@@ -725,35 +741,37 @@
     "url": "https://tasteskill.dev",
     "description": "Taste Skill gives your AI agent good taste. Open-source skill files that stop AI from generating generic, boring frontends.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "usehallmark.com",
     "url": "https://usehallmark.com",
     "description": "A design skill for AI coding assistants. Encodes the anti-slop consensus into one ruleset. Powered by Together AI.",
     "type": "links",
-    "category": "ia"
+    "category": "design-ui"
   },
   {
-    "name": "studio-magnolia.vercel.app",
+    "name": "Studio Magnolia",
     "url": "https://studio-magnolia.vercel.app",
     "description": "Cuidado que transforma. Estética facial e corporal no coração de Joinville.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Robby G."
   },
   {
-    "name": "laura-dermato.vercel.app",
+    "name": "Laura Dermato",
     "url": "https://laura-dermato.vercel.app",
     "description": "Estética facial e rejuvenescimento, calvície e queda de cabelo e saúde da pele em Santiago/RS. Atendimento particular com a Dra. Laura Ferreira de Sá.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "João Guilherme"
   },
   {
     "name": "institutodraaidabarja.com",
     "url": "https://institutodraaidabarja.com",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "cfestetica.com.br",
@@ -774,7 +792,7 @@
     "url": "https://tokenrouter.com",
     "description": "A unified AI model hub for aggregation and distribution. TokenRouter converts leading LLMs into OpenAI, Claude, and Gemini compatible APIs with centralized management for individuals and enterprises.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "propoza.com.br · Signup",
@@ -812,11 +830,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "valquiria-psicologa.vercel.app",
+    "name": "Valquiria Psicologa",
     "url": "https://valquiria-psicologa.vercel.app",
     "description": "Referência de design, interface ou experiência do usuário.",
-    "type": "links",
-    "category": "design"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Isaac Celso"
   },
   {
     "name": "Ahmed Dahbi (@dahbiahmed) on X",
@@ -826,25 +845,28 @@
     "category": "redes-sociais"
   },
   {
-    "name": "vertice-arquiteto.vercel.app",
+    "name": "Vertice Arquiteto",
     "url": "https://vertice-arquiteto.vercel.app",
     "description": "VÉRTICE apresenta CASA_01, residência autoral em Porto Velho — RO.",
-    "type": "links",
-    "category": "design"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Kaleb"
   },
   {
-    "name": "giovana-novello.vercel.app",
+    "name": "Giovana Novello",
     "url": "https://giovana-novello.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "giovani"
   },
   {
-    "name": "gabriel-costa-nutricionista.vercel.app",
+    "name": "Gabriel Costa Nutricionista",
     "url": "https://gabriel-costa-nutricionista.vercel.app?v=3",
     "description": "Nutrição clínica e esportiva com atendimento presencial em Volta Redonda e online.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Daniel Dutra"
   },
   {
     "name": "Tiago Nogueira - Vendas, Google Meu Negócio e SEO",
@@ -858,7 +880,7 @@
     "url": "https://originkit.dev",
     "description": "The largest free animated component library for building modern websites. Copy code, use in Framer, or connect through MCP.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "lutianefloresinfluencer.com.br",
@@ -872,14 +894,14 @@
     "url": "https://psicopatriciadamiam.com.br",
     "description": "Cuidado em saúde mental baseado em evidências. Terapia On-line e presencial para ansiedade, perfeccionismo e flexibilidade psicológica.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "clarity.microsoft.com",
     "url": "https://clarity.microsoft.com",
     "description": "Clarity is a free user behavior analytics tool that helps you understand how users are interacting with your website through session replays and heatmaps.",
     "type": "links",
-    "category": "marketing"
+    "category": "ferramentas"
   },
   {
     "name": "Portal do Barulho! (@MiguelArraes3) on X",
@@ -893,14 +915,14 @@
     "url": "https://pedropaulo.dev.br",
     "description": "Pipelines ETL/ELT, integração de APIs, modelagem dimensional e automação de rotinas de dados.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "impeccable.style",
     "url": "https://impeccable.style",
     "description": "Turn AI slop into interfaces you’re proud to ship. Impeccable gives your agent the design expertise to build from scratch, improve what you have, and stay true to your design system.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "dev juninho (@devjuninho) on X",
@@ -917,11 +939,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "fitflow-ia.vercel.app",
+    "name": "Fitflow Ia",
     "url": "https://fitflow-ia.vercel.app",
     "description": "Unifica fichas de treino, cardápios personalizados via IA e acompanhamento diário de evolução com lembretes automáticos no WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Victor"
   },
   {
     "name": "x.com",
@@ -935,14 +958,14 @@
     "url": "https://comprasparaguai.com.br",
     "description": "Economize em eletrônicos, perfumes e mais produtos originais no Paraguai. Preços atualizados, cotação do dólar em tempo real e guias de compras.",
     "type": "links",
-    "category": "ia"
+    "category": "educacao"
   },
   {
     "name": "saintgermainbrand.com.br · Relogio Masculino",
     "url": "https://saintgermainbrand.com.br/relogios/relogio-masculino?ref=kigagxkl&parceirando_coupon=A-ADRIANA7EC6PA",
     "description": "Relógios masculinos que unem sofisticação e desempenho. Encontre o seu na Saint Germain e destaque-se em qualquer ocasião.",
     "type": "links",
-    "category": "ia"
+    "category": "seo-performance"
   },
   {
     "name": "Erick (@ErickSky) on X",
@@ -966,11 +989,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "marceloviniciusfotografia.netlify.app",
+    "name": "Marceloviniciusfotografia",
     "url": "https://marceloviniciusfotografia.netlify.app",
     "description": "Fotografia profissional para registrar momentos importantes com sensibilidade, técnica e atenção aos detalhes.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Larissa Santos"
   },
   {
     "name": "dev juninho (@devjuninho) on X",
@@ -991,21 +1015,22 @@
     "url": "https://ensinadev.com.br",
     "description": "Trilhas guiadas por carreira, desafios de código corrigidos na hora e simulados de certificação. Grátis, sem plano pago e de código aberto.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
-    "name": "manga-nutricao.vercel.app",
+    "name": "Manga Nutricao",
     "url": "https://manga-nutricao.vercel.app",
     "description": "Nutrição personalizada com acolhimento, estratégia e resultados reais. Emagrecimento, saúde, performance e reeducação alimentar.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Bruno"
   },
   {
     "name": "thaisandrademastologista.com",
     "url": "https://thaisandrademastologista.com?gad_source=1&gad_campaignid=21966160295&gclid=Cj0KCAjw4dDTBhAqEi0AkHYmSnyY41zBmGUU9au5BSiZ3gjiMB7YaUSw7fm-vz2eDoI7Db9jR9KKXXQaAhySEALw_wcB",
     "description": "DRA THAIS ANDRADE LACERDA",
     "type": "links",
-    "category": "ia"
+    "category": "referencias"
   },
   {
     "name": "jinteligenciacontabil.com.br",
@@ -1019,14 +1044,14 @@
     "url": "https://codify.tec.br",
     "description": "Sites, SEO, marketing e sistemas para sua empresa ser encontrada no Google e gerar mais oportunidades.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
     "name": "propoza.com.br",
     "url": "https://propoza.com.br",
     "description": "Use o nosso gerador de propostas com IA ou escolha entre diversos modelos comerciais prontos para enviar ao seu cliente.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "jam.dev · 8D555F6F E425 423B A135 C5208877662E",
@@ -1036,25 +1061,28 @@
     "category": "referencias"
   },
   {
-    "name": "psi-leticia-freitas.vercel.app",
+    "name": "Psi Leticia Freitas",
     "url": "https://psi-leticia-freitas.vercel.app",
     "description": "Atendimento de Psicoterapia Cognitivo-Comportamental (TCC) online e presencial. Auxílio em ansiedade, estresse e autoconhecimento. Agende sua sessão.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Miguel"
   },
   {
-    "name": "siteiegcoleioecurso-4dxf.vercel.app",
+    "name": "Siteiegcoleioecurso 4Dxf",
     "url": "https://siteiegcoleioecurso-4dxf.vercel.app",
     "description": "Educação, tradição e projetos que formam para o futuro. Educação Infantil, Ensino Fundamental e Ensino Médio em João Pessoa - PB.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "educacao",
+    "author": "Fernandes"
   },
   {
-    "name": "anna-livia-site.vercel.app",
+    "name": "Anna Livia Site",
     "url": "https://anna-livia-site.vercel.app",
     "description": "Psicoterapia para adolescentes e adultos com foco em TCC: ansiedade, depressão, TDAH, TOC, autoestima e relacionamentos. Presencial em Petrolina-PE e online para todo o Brasil.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Daniel Cruz"
   },
   {
     "name": "GitHub · nextlevelbuilder/ui-ux-pro-max-skill",
@@ -1064,32 +1092,35 @@
     "category": "github"
   },
   {
-    "name": "meuportfoliocarlos.vercel.app",
+    "name": "Meuportfoliocarlos",
     "url": "https://meuportfoliocarlos.vercel.app",
     "description": "Carlos Eduardo cria sites profissionais e landing pages para negócios que querem transmitir confiança, autoridade e conquistar novos clientes.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Carlos"
   },
   {
-    "name": "adv-andre-luis.vercel.app",
+    "name": "Adv Andre Luis",
     "url": "https://adv-andre-luis.vercel.app",
     "description": "Referência de design, interface ou experiência do usuário.",
-    "type": "links",
-    "category": "design"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Miguel"
   },
   {
     "name": "gemini.google.com · 1Nu1Skzjzole Wtsqqff Zdtdoflpid4I",
     "url": "https://gemini.google.com/gem/1Nu1SKZjzOle-WtSqqFF-ZdTdoflpId4i?usp=sharing",
     "description": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
-    "name": "tiagohortafotografo.vercel.app",
+    "name": "Tiagohortafotografo",
     "url": "https://tiagohortafotografo.vercel.app",
     "description": "Histórias reais, fotografadas com um olhar cinematográfico.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Anny🇮🇹"
   },
   {
     "name": "danielcruzsites.com.br",
@@ -1099,18 +1130,20 @@
     "category": "referencias"
   },
   {
-    "name": "portfolio-cristian-vieira.vercel.app",
+    "name": "Portfolio Cristian Vieira",
     "url": "https://portfolio-cristian-vieira.vercel.app",
     "description": "Conheça os sistemas de pesquisa, criação e automação desenvolvidos por Cristian Vieira.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Cristian Vieira"
   },
   {
-    "name": "portfoliogustavosan.vercel.app",
+    "name": "Portfoliogustavosan",
     "url": "https://portfoliogustavosan.vercel.app",
     "description": "Há mais de 10 anos dando voz a grandes marcas, canais e projetos de mídia.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Yago I Master Digital"
   },
   {
     "name": "Raphael Costa | Grupo 220🫡 on Instagram: \"Destruindo as 5 maiores objeções de vendas em 60 segundos:",
@@ -1120,11 +1153,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "norean.vercel.app",
+    "name": "Norean",
     "url": "https://norean.vercel.app",
     "description": "Sites, aplicações web, sistemas e automações sob medida para empresas que precisam vender, organizar processos e integrar operações.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Kaleb"
   },
   {
     "name": "vt.tiktok.com · Zs4Pfgcye",
@@ -1138,7 +1172,7 @@
     "url": "https://propoza.com.br/parceria/vendendosites",
     "description": "Parceria Propoza × Rodrigo (Sites com IA do Zero): crie propostas comerciais profissionais em minutos com IA e ganhe 25% de desconto nos planos pagos. Cadastre-se pelo link oficial da parceria.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "gustavosan.com",
@@ -1148,32 +1182,34 @@
     "category": "referencias"
   },
   {
-    "name": "victortech1.vercel.app",
+    "name": "Victortech1",
     "url": "https://victortech1.vercel.app",
     "description": "Landing Pages e Sites de Alta Performance que transformam visitantes em clientes.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Victor"
   },
   {
     "name": "tabler.io · Icons",
     "url": "https://tabler.io/icons?icon=compass",
     "description": "Tabler Icons: 6184 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!",
     "type": "links",
-    "category": "design"
+    "category": "desenvolvimento"
   },
   {
-    "name": "pena-de-ouro.vercel.app",
+    "name": "Pena De Ouro",
     "url": "https://pena-de-ouro.vercel.app",
     "description": "Criatório familiar de galinhas ornamentais em Brasília. Cada ave com o módulo de origem registrado.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Rodrigo Ribeiro"
   },
   {
     "name": "masterdigital.dev",
     "url": "https://masterdigital.dev",
     "description": "Sites sob medida para apresentar bem o que você faz, transmitir confiança e transformar visitas em conversas.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "Tibo (@thsottiaux) on X",
@@ -1187,21 +1223,21 @@
     "url": "https://fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas",
     "description": "Conheça nossos cursos de graduação. Tecnologia, inovação e empreendedorismo para o futuro.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "fiap.com.br · Engenharia De Software",
     "url": "https://fiap.com.br/graduacao/bacharelado/engenharia-de-software",
     "description": "Conheça nossos cursos de graduação. Tecnologia, inovação e empreendedorismo para o futuro.",
     "type": "links",
-    "category": "referencias"
+    "category": "educacao"
   },
   {
     "name": "awwwards.com",
     "url": "https://awwwards.com",
     "description": "Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "Niko on Instagram: \"Ele fazendo de tudo pra diária demorar mais KKKK\"",
@@ -1211,18 +1247,19 @@
     "category": "redes-sociais"
   },
   {
-    "name": "clinica-humanitare.vercel.app",
+    "name": "Clinica Humanitare",
     "url": "https://clinica-humanitare.vercel.app",
     "description": "Clínica Médica e Laboratório em Currais Novos/RN. Excelência em endoscopia avançada e análises clínicas.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Gabriel"
   },
   {
     "name": "squoosh.app",
     "url": "https://squoosh.app",
     "description": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "linkedin.com · Cristianvieira Oficial",
@@ -1243,28 +1280,29 @@
     "url": "https://f11arquitetura.com.br",
     "description": "Espaços que transformam a forma de viver. Projetos residenciais, comerciais e interiores com design autêntico e funcional.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "pagespeed.web.dev",
     "url": "https://pagespeed.web.dev",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
-    "name": "jeanesantana.vercel.app",
+    "name": "Jeanesantana",
     "url": "https://jeanesantana.vercel.app",
     "description": "Estética facial, drenagem linfática, rejuvenescimento e acompanhamento pós-operatório com Jeane Santana em João Pessoa – PB. Agende sua avaliação.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Fernandes"
   },
   {
     "name": "themaestri.app · Windows",
     "url": "https://themaestri.app/windows",
     "description": "O Maestri chega ao Windows rodando o mesmo núcleo em Swift do app para Mac. Cada agente ganha um papel, todos conversam entre si e a operação inteira fica à sua frente.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "GitHub · annygabb/pagespeed-seo-optimizer",
@@ -1281,39 +1319,43 @@
     "category": "redes-sociais"
   },
   {
-    "name": "psic-mariana-demo.vercel.app",
+    "name": "Psic Mariana Demo",
     "url": "https://psic-mariana-demo.vercel.app",
     "description": "Psicoterapia individual presencial e online em Vila Mariana, SP. Um espaço seguro para você se reencontrar.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Edu"
   },
   {
-    "name": "positionsprint.vercel.app",
+    "name": "Positionsprint",
     "url": "https://positionsprint.vercel.app",
     "description": "Site completo no ar em 7 dias úteis para negócios locais. A gente escreve o texto e monta a página inteira. Você manda as fotos e aprova o começo.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Cristian Vieira"
   },
   {
     "name": "salvy.com.br",
     "url": "https://salvy.com.br?utm_source=google&utm_medium=cpc&utm_campaign=google_cap_kw_chip-cnpj&utm_term=chip-empresarial&utm_content=chip%20corporativo&utm_medium=cpc&utm_source=google&utm_term=chip%20corporativo&utm_campaign=google_cap_kw_chip-cnpj&utm_id=24021390425&hsa_acc=3022102676&hsa_cam=24021390425&hsa_grp=199810935722&hsa_ad=816451881758&hsa_src=g&hsa_tgt=kwd-299123814429&hsa_kw=chip%20corporativo&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=24021390425&gclid=Cj0KCQjw7eXTBhDBARIsAKF-w47STWoSiblfZC5sAA6EsZ1Xo5sbfDKZqK4rBfRvrsf5ghYqQ7QcyxEaAvW5EALw_wcB",
     "description": "Chip, eSIM ou número virtual. A Salvy é a solução de telefonia móvel para times que não querem perder tempo e dinheiro com as velhas operadoras. Comece agora.",
     "type": "links",
-    "category": "ia"
+    "category": "negocios"
   },
   {
-    "name": "argosolucoesinteligentes.com.br",
+    "name": "Argosolucoesinteligentes",
     "url": "https://argosolucoesinteligentes.com.br",
     "description": "Coloque sua empresa no radar digital. Páginas que vendem, reputação no Google Maps e atendimento automático — sem tráfego pago.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Fabio dos Santos"
   },
   {
-    "name": "biscoitodasorte.xyz",
+    "name": "Biscoitodasorte",
     "url": "https://biscoitodasorte.xyz",
     "description": "Quebre o biscoito e descubra sua sorte! Mensagem + números da Mega Sena.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Leonardo"
   },
   {
     "name": "GitHub · vercel-labs/skills",
@@ -1334,7 +1376,7 @@
     "url": "https://speedvitals.com",
     "description": "Test website page speed from 30+ locations and devices, measure Core Web Vitals, and find the performance issues slowing down your pages.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
     "name": "Como Indexar um Site ou Página no Google - Método Oficial",
@@ -1369,14 +1411,15 @@
     "url": "https://outframe.dev/afiliados",
     "description": "Indique uma empresa para a Outframe. Fechou contrato, você ganha 10% de cada pagamento, sem teto, pago via PIX conforme o cliente paga cada etapa.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
-    "name": "mileniumquadros.com.br",
+    "name": "Mileniumquadros",
     "url": "https://mileniumquadros.com.br",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "comercio",
+    "author": "moisés"
   },
   {
     "name": "antonio realoficial.com.br | clips.bot (@acgfbr) on X",
@@ -1393,32 +1436,36 @@
     "category": "referencias"
   },
   {
-    "name": "segundo-site-novakar.vercel.app",
+    "name": "Segundo Site Novakar",
     "url": "https://segundo-site-novakar.vercel.app",
     "description": "Curadoria exclusiva de automóveis clássicos em São Paulo desde 1998. Mais de 50 clássicos em acervo, com procedência verificada e atendimento especializado.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Stef"
   },
   {
-    "name": "retrogarage.netlify.app",
+    "name": "Retrogarage",
     "url": "https://retrogarage.netlify.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Luis Roberto Outframe.Dev"
   },
   {
-    "name": "ron-tatoo.vercel.app",
+    "name": "Ron Tatoo",
     "url": "https://ron-tatoo.vercel.app",
     "description": "Tatuagens realistas em preto e cinza, desenhadas sob medida e executadas com precisão. 11 anos de estúdio em Feira de Santana.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Miguel"
   },
   {
-    "name": "seikaengenharia.vercel.app",
+    "name": "Seikaengenharia",
     "url": "https://seikaengenharia.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Eduardo"
   },
   {
     "name": "tonon.obieltv.workers.dev",
@@ -1432,14 +1479,15 @@
     "url": "https://interfusao.com.br",
     "description": "Há quatro décadas, a INTERFUSÃO fornece corpos moedores, reagentes químicos e peças de desgaste com suporte técnico para a mineração.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
-    "name": "bellatech.netlify.app",
+    "name": "Bellatech",
     "url": "https://bellatech.netlify.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Orlando Araújo"
   },
   {
     "name": "Tibo (@thsottiaux) on X",
@@ -1449,18 +1497,19 @@
     "category": "redes-sociais"
   },
   {
-    "name": "lumion-tech.vercel.app",
+    "name": "Lumion Tech",
     "url": "https://lumion-tech.vercel.app",
     "description": "Lumion constrói web apps, sites e sistemas sob medida com React, Next.js, Java e AWS. Do brief ao deploy, com clareza em cada etapa.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Victor"
   },
   {
     "name": "status.claude.com",
     "url": "https://status.claude.com",
     "description": "Welcome to Claude's home for real-time and historical data on system performance.",
     "type": "links",
-    "category": "ia"
+    "category": "seo-performance"
   },
   {
     "name": "Eduardo de Cesaro 💻 (@reidophotoshops) on X",
@@ -1488,7 +1537,7 @@
     "url": "https://g1.globo.com/politica/noticia/2026/08/12/agencia-de-protecao-de-dados-suspende-lives-do-discord-no-brasil.ghtml",
     "description": "Agência reguladora vinculada ao Ministério da Justiça anunciu a determinação nesta quarta (12). Suspensão será mantida até que a empresa comprove a adoção de medidas para proteger crianças e adolescentes.",
     "type": "links",
-    "category": "referencias"
+    "category": "negocios"
   },
   {
     "name": "Eduardo de Cesaro 💻 (@reidophotoshops) on X",
@@ -1498,46 +1547,51 @@
     "category": "redes-sociais"
   },
   {
-    "name": "alliancecontabilidade.vercel.app",
+    "name": "Alliancecontabilidade",
     "url": "https://alliancecontabilidade.vercel.app",
     "description": "Contabilidade completa para você e sua empresa crescer com segurança.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Fernandes"
   },
   {
     "name": "fercomlogos.com.br",
     "url": "https://fercomlogos.com.br",
     "description": "Psicoterapia online para quem busca sentido, não só alívio.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
-    "name": "sitejuceliosilva.vercel.app",
+    "name": "Sitejuceliosilva",
     "url": "https://sitejuceliosilva.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "SieL"
   },
   {
-    "name": "sitejuceliosilva2.vercel.app",
+    "name": "Sitejuceliosilva2",
     "url": "https://sitejuceliosilva2.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "SieL"
   },
   {
-    "name": "gracie-barra-pirituba.vercel.app",
+    "name": "Gracie Barra Pirituba",
     "url": "https://gracie-barra-pirituba.vercel.app",
     "description": "Treine Jiu-Jitsu na Gracie Barra Pirituba em um ambiente de disciplina, respeito e evolução. Agende sua aula pelo WhatsApp e comece sua jornada no tatame.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Stef"
   },
   {
-    "name": "fort-energia-solar-one.vercel.app",
+    "name": "Fort Energia Solar One",
     "url": "https://fort-energia-solar-one.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Miguel"
   },
   {
     "name": "GitHub · micheltechEr/consultor-universal-site",
@@ -1572,49 +1626,50 @@
     "url": "https://minimal.gallery",
     "description": "Hand-picked design inspiration, curated daily",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "supahero.io",
     "url": "https://supahero.io",
     "description": "A handpicked library of stunning website hero sections designed to captivate and engage.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "footer.design",
     "url": "https://footer.design",
     "description": "Footer is a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "cta.gallery",
     "url": "https://cta.gallery",
     "description": "Explore CTA.gallery for the web's best Call-to-Actions. Perfect for designers, UI/UX experts, and creatives looking for inspiration to craft CTAs that convert.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "recent.design",
     "url": "https://recent.design?ref=godly&category=web",
     "description": "The best design inspiration on the Internet.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "navbar.gallery",
     "url": "https://navbar.gallery",
     "description": "Navbar Gallery is a collection of the best website navbar inspiration designs on the web. Find the ideal navigation example for your design from our collection.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
-    "name": "tambauseguradora.vercel.app",
+    "name": "Tambauseguradora",
     "url": "https://tambauseguradora.vercel.app",
     "description": "Seguro auto, residencial, de vida e viagem com orientação de quem entende do assunto. Solicite sua cotação pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Fernandes"
   },
   {
     "name": "tambauseguros.com.br",
@@ -1628,7 +1683,7 @@
     "url": "https://cousinsconstructions.com",
     "description": "Cousins Constructions serves as a leading Construction Company in the Boston area. We’re a team of fully-certified professionals who tackle everything from complex large projects to smaller scale jobs. Fueled by our commitment to excellence",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "PAGOU.AI (@pagouai) on X",
@@ -1638,18 +1693,19 @@
     "category": "redes-sociais"
   },
   {
-    "name": "convec-solar.vercel.app",
+    "name": "Convec Solar",
     "url": "https://convec-solar.vercel.app",
     "description": "Reduza até 95% da sua conta de luz com a Convec Solar. Mais de 600 instalações fotovoltaicas no Vale do São Francisco desde 2020.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Miguel"
   },
   {
     "name": "app.numero-virtual.com",
     "url": "https://app.numero-virtual.com",
     "description": "Números virtuais para receber SMS online. Verificação de contas segura, privacidade garantida e ativação instantânea.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "nadanada.me",
@@ -1666,18 +1722,19 @@
     "category": "redes-sociais"
   },
   {
-    "name": "sitelumafer.vercel.app",
+    "name": "Sitelumafer",
     "url": "https://sitelumafer.vercel.app",
     "description": "Ferragens para o dia a dia da Zona Norte. Elétrica, hidráulica e construção. Faltou uma peça? Manda uma foto no WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Hélcio"
   },
   {
     "name": "cadore.dev",
     "url": "https://cadore.dev",
     "description": "Portfólio de Gustavo Cadore, desenvolvedor web freelancer especializado em landing pages, aplicações web, projetos full stack e manutenção.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "responsiveviewer.org",
@@ -1687,18 +1744,20 @@
     "category": "referencias"
   },
   {
-    "name": "amvision-eta.vercel.app",
+    "name": "Amvision Eta",
     "url": "https://amvision-eta.vercel.app",
     "description": "Criamos vídeos, sites e estratégias digitais que geram resultados reais.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Lucas Aires"
   },
   {
-    "name": "koamvp.vercel.app",
+    "name": "Koamvp",
     "url": "https://koamvp.vercel.app",
     "description": "Pesca esportiva embarcada, avistamento de baleias e passeios de lancha em Ilhabela, Caraguatatuba e São Sebastião. Nº 1 do TripAdvisor de Caraguatatuba.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "João Marcelo"
   },
   {
     "name": "sandersondias.com.br",
@@ -1715,11 +1774,12 @@
     "category": "referencias"
   },
   {
-    "name": "angelomigueldev.vercel.app",
+    "name": "Angelomigueldev",
     "url": "https://angelomigueldev.vercel.app",
     "description": "Systems that hold up. Monoliths when they fit, microservices when they don't. Multitenancy, security, and AI done on purpose.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Miguel"
   },
   {
     "name": "Instagram",
@@ -1740,21 +1800,22 @@
     "url": "https://angelomigueldev.vercel.app/solucoes",
     "description": "Systems that hold up. Monoliths when they fit, microservices when they don't. Multitenancy, security, and AI done on purpose.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
-    "name": "eduardoribeiro.vercel.app",
+    "name": "Eduardoribeiro",
     "url": "https://eduardoribeiro.vercel.app",
     "description": "Eduardo Ribeiro - UX / UI Designer Portfolio",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Eduardo"
   },
   {
     "name": "seikaengenharia.com.br",
     "url": "https://seikaengenharia.com.br",
     "description": "Projetos e instalação de energia solar para residências e empresas. Engenharia especializada, economia na conta de luz e acompanhamento completo, do projeto à homologação.",
     "type": "links",
-    "category": "referencias"
+    "category": "negocios"
   },
   {
     "name": "copy my landing page template, it made me $1.4m in 30 days",
@@ -1764,46 +1825,48 @@
     "category": "videos"
   },
   {
-    "name": "la-belle-nail-studio.vercel.app",
+    "name": "La Belle Nail Studio",
     "url": "https://la-belle-nail-studio.vercel.app",
     "description": "Escolha seu serviço e agende diretamente pelo WhatsApp.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Jonathan"
   },
   {
-    "name": "carpelo-caffe.vercel.app",
+    "name": "Carpelo Caffe",
     "url": "https://carpelo-caffe.vercel.app",
     "description": "Cafés especiais, 7 métodos de preparo, tortas e salgados em Pirituba, São Paulo. Boa prosa, aprendizado e cafés incríveis na Carpelo Empório e Caffè.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "alimentacao",
+    "author": "Stef"
   },
   {
     "name": "sitenauta.com.br · Sitepronto2",
     "url": "https://sitenauta.com.br/sitepronto2",
     "description": "Sites profissionais, rápidos e de alta conversão em até 48h. Landing pages, sites institucionais e páginas de vendas prontos para vender.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
     "name": "emcap.com · The Ai Native Services Playbook",
     "url": "https://emcap.com/thoughts/the-ai-native-services-playbook",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "dfolloni.substack.com · Troquei Meu Saas Por Uma Empresa",
     "url": "https://dfolloni.substack.com/p/troquei-meu-saas-por-uma-empresa",
     "description": "Esse é o melhor momento da história para montar uma empresa de serviços.",
     "type": "links",
-    "category": "desenvolvimento"
+    "category": "negocios"
   },
   {
     "name": "blink.new · Pt Br",
     "url": "https://blink.new/pt-BR",
     "description": "Sites com qualidade de estúdio e apps completos a partir de um único prompt. Domínio próprio, hospedagem, banco de dados e autenticação inclusos.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "Gustavo Sextaro on Instagram: \"Aprendam.\"",
@@ -1817,14 +1880,14 @@
     "url": "https://gsap.com",
     "description": "Supported by Webflow. Animate Anything - A wildly robust JavaScript animation library built for professionals.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "sigmaone.com.br",
     "url": "https://sigmaone.com.br",
     "description": "SigmaOne - Especialistas em soluções audiovisuais para empresas",
     "type": "links",
-    "category": "referencias"
+    "category": "negocios"
   },
   {
     "name": "chacaracavallin.com.br",
@@ -1838,28 +1901,30 @@
     "url": "https://brendi.com.br",
     "description": "Delivery próprio pra restaurante: cardápio digital, atendimento no WhatsApp com IA e CRM do seu cliente, sem taxa por pedido. Teste grátis por 15 dias.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
-    "name": "dvino.vercel.app",
+    "name": "Dvino",
     "url": "https://dvino.vercel.app",
     "description": "Mais que produtos. Experiências que permanecem. Uma boutique de luxo dedicada a vinhos, destilados e charutos.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "comercio",
+    "author": "Marcelo H."
   },
   {
     "name": "kaxios.com",
     "url": "https://kaxios.com",
     "description": "Transformamos ideias em soluções digitais de alto impacto. Desenvolvimento de sistemas web, apps, SaaS, IA e automações para empresas que querem crescer com tecnologia moderna.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
-    "name": "portfoliosolucoesanny.vercel.app",
+    "name": "Portfoliosolucoesanny",
     "url": "https://portfoliosolucoesanny.vercel.app",
     "description": "Sites personalizados para empresas que querem uma presença profissional, clara e preparada para gerar novos contatos.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Anny🇮🇹"
   },
   {
     "name": "share.google · Nwhfapbmxzw1Yhace",
@@ -1876,11 +1941,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "lp-pet-caetano.vercel.app",
+    "name": "Lp Pet Caetano",
     "url": "https://lp-pet-caetano.vercel.app",
     "description": "Ração, medicamentos, brinquedos e Farmácia Pet com orientação técnica na Praça da Bíblia, Anchieta.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Fabio dos Santos"
   },
   {
     "name": "GitHub · Leonxlnx/taste-skill",
@@ -1894,28 +1960,29 @@
     "url": "https://app.leonasolutions.io",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "pagespeed.web.dev · R7Bhfx16Hg",
     "url": "https://pagespeed.web.dev/analysis/http-lp-pet-caetano-vercel-app/r7bhfx16hg?form_factor=mobile",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
     "name": "styles.refero.design",
     "url": "https://styles.refero.design",
     "description": "Browse a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
-    "name": "achedominio0.vercel.app",
+    "name": "Achedominio0",
     "url": "https://achedominio0.vercel.app",
     "description": "Disponibilidade, registrador, vencimento, DNS, hospedagem e tecnologias de qualquer domínio.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Luis Roberto Outframe.Dev"
   },
   {
     "name": "dev juninho (@devjuninho) on X",
@@ -1936,35 +2003,35 @@
     "url": "https://21st.dev/community/components/s/testimonials?qt=animated-testimonial%2Ctestimonial-card%2Ctestimonial-section%2Ctestimonials",
     "description": "Showcase trust and social proof with 42 React testimonial components styled with Tailwind CSS, perfect for Next.js projects.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "shadcnstudio.com · Testimonials Component",
     "url": "https://shadcnstudio.com/blocks/marketing-ui/testimonials-component",
     "description": "Highlight client feedback with Shadcn Testimonials sections. Slider and static layouts designed to boost credibility and trust.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "framer.com · Testimonial",
     "url": "https://framer.com/community/marketplace/components/tags/testimonial",
     "description": "Browse Framer testimonial components. Review cards, quote sliders and star ratings, editable on the canvas. Customize and publish fast.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "getdesign.md",
     "url": "https://getdesign.md",
     "description": "Browse independent design system analyses from popular websites. Drop one into your project as design reference for your coding agent.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "sef.sc.gov.br",
     "url": "https://sef.sc.gov.br/servicos/emitir-nota-fiscal-avulsa-eletronica-nfa-e-de-nao-contribuinte",
     "description": "Secretaria de Estado da Fazenda de Santa Catarina",
     "type": "links",
-    "category": "design"
+    "category": "referencias"
   },
   {
     "name": "departuremono.com",
@@ -1974,11 +2041,12 @@
     "category": "referencias"
   },
   {
-    "name": "bella-menina-garoto-prodigio.vercel.app",
+    "name": "Bella Menina Garoto Prodigio",
     "url": "https://bella-menina-garoto-prodigio.vercel.app",
     "description": "Bella Menina e Garoto Prodígio — catálogo de moda infantil e infantojuvenil no Bacacheri, com atendimento direto pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "comercio",
+    "author": "Luara"
   },
   {
     "name": "emilkowal.ski · Skill",
@@ -2002,25 +2070,26 @@
     "category": "referencias"
   },
   {
-    "name": "wubbert-aguiar.vercel.app",
+    "name": "Wubbert Aguiar",
     "url": "https://wubbert-aguiar.vercel.app",
     "description": "Referência de design, interface ou experiência do usuário.",
-    "type": "links",
-    "category": "design"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Miguel"
   },
   {
     "name": "canva.com · 20 Principios Elementos Do Design",
     "url": "https://canva.com/pt_br/aprenda/20-principios-elementos-do-design",
     "description": "Confira nosso guia completo e ilustrado com 20 princípios e elementos do design que você precisa conhecer para criar conteúdos visuais profissionais.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "alura.com.br · 10 Heuristicas Usabilidade Para User Interface",
     "url": "https://alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface",
     "description": "Descubra e aprenda mais sobre as 10 recomendações de usabilidade para produtos digitais, criadas por Jakob Nielsen.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "noho.ink",
@@ -2037,11 +2106,12 @@
     "category": "github"
   },
   {
-    "name": "principe-dos-pets.vercel.app",
+    "name": "Principe Dos Pets",
     "url": "https://principe-dos-pets.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "comercio",
+    "author": "Miguel"
   },
   {
     "name": "goias.gov.br · Nota Fiscal Avulsa Web",
@@ -2051,11 +2121,12 @@
     "category": "referencias"
   },
   {
-    "name": "consultoriaalecrim.vercel.app",
+    "name": "Consultoriaalecrim",
     "url": "https://consultoriaalecrim.vercel.app",
     "description": "Consultoria ambiental e regulatória para agronegócio e indústria. Licenciamento, MAPA, ANVISA, IBAMA, resíduos e regularizações em todo o Brasil.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Anny🇮🇹"
   },
   {
     "name": "GEO: o Novo Jeito de Conseguir CLIENTES Pelo ChatGPT e outras IAs",
@@ -2069,14 +2140,14 @@
     "url": "https://neurocognitiva-ssa.com.br?gad_source=1&gad_campaignid=23946972468&gclid=CjwKCAjwqJXUBhBNEiwA8BgG7qhwa_HWhIWaulIRiXElaRdIrnQbsSEW1UQM6EaHB3ToLUDjthYNQBoC5IgQAvD_BwE",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "bluetechliquid.com.br",
     "url": "https://bluetechliquid.com.br",
     "description": "Referência de design, interface ou experiência do usuário.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "PEDRO BALDI | MENTOR DE PERSONAL on Instagram: \"👇Comente “CONSULTÓRIO”. Vou te mostrar como estrutur",
@@ -2097,7 +2168,7 @@
     "url": "https://aihero.dev",
     "description": "AI Engineering for Curious Professional Developers",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "x.com",
@@ -2111,7 +2182,7 @@
     "url": "https://gemini.google/students",
     "description": "Você sabia que o Gemini pode ser usado para além do dever de casa? Conte com ele para aprender, criar vídeos e muito mais. Aproveite o Gemini ao máximo com o Google AI Pro!",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "Como conseguir Gemini Pro e 5TB no Drive por 18 meses gastando R$5",
@@ -2132,21 +2203,21 @@
     "url": "https://tecmundo.com.br/software/413931-prefeitura-do-rio-e-acusada-de-copia-ao-lancar-modelo-de-ia-e-admite-erro.htm",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "correios.com.br · Manual Api Preco 1",
     "url": "https://correios.com.br/atendimento/developers/manuais/manual-api-preco-1",
     "description": "Os Correios conectam você ao Brasil e ao mundo! Acesse nosso portal para rastrear encomendas, calcular fretes, conhecer serviços logísticos, postais e digitais. Simples, rápido e seguro!",
     "type": "links",
-    "category": "ia"
+    "category": "desenvolvimento"
   },
   {
     "name": "chatgpt.com",
     "url": "https://chatgpt.com?promo_campaign=plus-3-months-50-pct-off",
     "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "Bianca Lolli (@BiancaLolli_) on X",
@@ -2174,7 +2245,7 @@
     "url": "https://revon.outframe.dev",
     "description": "Protocolo 100% individualizado para recomposição corporal, força e performance. Sem método genérico — treinamento baseado nos dados reais do seu corpo. Vagas limitadas.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
     "name": "Bianca Lolli (@BiancaLolli_) on X",
@@ -2223,7 +2294,7 @@
     "url": "https://pretonobranco.app/m/A9U4J98E",
     "description": "Monte seu elenco histórico, atravesse as eras e faça história.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "premiumleague.com.br · Home",
@@ -2233,11 +2304,12 @@
     "category": "referencias"
   },
   {
-    "name": "zarahflor.vercel.app",
+    "name": "Zarahflor",
     "url": "https://zarahflor.vercel.app",
     "description": "Zarah Flor — estética facial e corporal especializada em pele negra.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Edu"
   },
   {
     "name": "ERSolutions on Instagram: \"Ter um site bonito que não gera contatos é só custo parado. Uma landing p",
@@ -2251,7 +2323,7 @@
     "url": "https://web.telegram.org/k",
     "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "Bianca Lolli (@BiancaLolli_) on X",
@@ -2275,11 +2347,12 @@
     "category": "videos"
   },
   {
-    "name": "previaquegeadv.vercel.app",
+    "name": "Previaquegeadv",
     "url": "https://previaquegeadv.vercel.app",
     "description": "Advocacia tributária em Curitiba e Canoinhas: planejamento tributário, recuperação de créditos, defesa em contencioso, proteção patrimonial e sucessória, e adequação à Reforma Tributária (IBS/CBS).",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Júlia Hendler"
   },
   {
     "name": "biggusdickus.lol",
@@ -2293,7 +2366,7 @@
     "url": "https://pretonobranco.app/m/GSA8YNWP",
     "description": "Monte seu elenco histórico, atravesse as eras e faça história.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "Richard - Design for startups (@richardrx) on X",
@@ -2321,28 +2394,28 @@
     "url": "https://app.ditther.com",
     "description": "Create crazy images and videos with 75+ customizable effects, text, shapes, layers and animation. Make posters, graphics, backgrounds and more in your browser.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "pryzm.design",
     "url": "https://pryzm.design",
     "description": "Pryzm is a visual studio for designers. Create original backgrounds and textures for your websites, templates, and designs in seconds, right in your browser.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "backgrounds.supply",
     "url": "https://backgrounds.supply",
     "description": "A huge collection of handcrafted and AI-generated backgrounds, wallpapers, and gradients to elevate your designs, apps, and client projects.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "jitter.video",
     "url": "https://jitter.video",
     "description": "Jitter is a collaborative motion design tool that lets you create professional animations in minutes, no matter your experience with motion.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "meet.google.com · Wmv Csdp Qns",
@@ -2356,7 +2429,7 @@
     "url": "https://passoapassochamachat.fellipesales.com.br",
     "description": "Um guia + prompt pra você montar, com o Claude Code, sua própria automação de DM do Instagram. Comentário vira DM automática. Roda de graça.",
     "type": "links",
-    "category": "marketing"
+    "category": "ia-automacao"
   },
   {
     "name": "GitHub · ever-works/awesome-mcp-servers",
@@ -2391,7 +2464,7 @@
     "url": "https://soscisurvey.de/tools/view-chars.php",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "canva.link · Un7Hjzmeh2Vhnmc",
@@ -2422,18 +2495,20 @@
     "category": "redes-sociais"
   },
   {
-    "name": "edupinheiro.vercel.app",
+    "name": "Edupinheiro",
     "url": "https://edupinheiro.vercel.app",
     "description": "Edu Pinheiro — Web Designer & Developer. Construindo produtos digitais.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Edu"
   },
   {
-    "name": "victorgotfrid.com · Pt",
+    "name": "Victorgotfrid",
     "url": "https://victorgotfrid.com/pt",
     "description": "Bridging full-stack software engineering with high-impact art direction and product design.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Victor Gotfrid"
   },
   {
     "name": "advocaciaeliasfreitas.com.br",
@@ -2447,7 +2522,7 @@
     "url": "https://vercel.com/pricing",
     "description": "From early-stage startups to growing enterprises, Vercel has you covered. Find a plan to power your projects.",
     "type": "links",
-    "category": "desenvolvimento"
+    "category": "referencias"
   },
   {
     "name": "facebook.com · Watch",
@@ -2464,60 +2539,65 @@
     "category": "videos"
   },
   {
-    "name": "site-dentista-smile.vercel.app",
+    "name": "Site Dentista Smile",
     "url": "https://site-dentista-smile.vercel.app",
     "description": "Odontologia integrada no Ipiranga, São Paulo. Atendimento humanizado e sorriso com propósito.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Stef"
   },
   {
     "name": "monkeytype.com",
     "url": "https://monkeytype.com",
     "description": "The most customizable typing test website with a minimal design and a ton of features. Test yourself in various modes, track your progress and improve your speed.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "site-dentista-smile-433l96oaq-nihon2.vercel.app",
     "url": "https://site-dentista-smile-433l96oaq-nihon2.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
-    "name": "odontotche.vercel.app",
+    "name": "Odontotche",
     "url": "https://odontotche.vercel.app",
     "description": "Odontotchê: Dentista no Centro de Guaíba - RS. Avaliação 4,9 no Google. Agende sua consulta e cuide da sua saúde bucal com profissionais qualificados.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Douglas Ferreira"
   },
   {
     "name": "g1.globo.com",
     "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/08/26/agronomo-cria-marketplace-de-aluguel-de-maquinas-agricolas-e-fatura-r-5-milhoes-por-ano.ghtml",
     "description": "Com cerca de 3 mil equipamentos cadastrados, empresa conecta produtores rurais e proprietários de máquinas ociosas em todo o Brasil.",
     "type": "links",
-    "category": "design"
+    "category": "negocios"
   },
   {
-    "name": "seven-cambio-automatico.vercel.app",
+    "name": "Seven Cambio Automatico",
     "url": "https://seven-cambio-automatico.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "TWODEVS"
   },
   {
-    "name": "taurusgymfitness.vercel.app",
+    "name": "Taurusgymfitness",
     "url": "https://taurusgymfitness.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Lucas Freitas"
   },
   {
-    "name": "viva-espaco-beleza.vercel.app",
+    "name": "Viva Espaco Beleza",
     "url": "https://viva-espaco-beleza.vercel.app",
     "description": "Manicure, cabelo e unhas em um espaço acolhedor em Campo Grande/MS. Agende seu horário pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Luis Forasteiro"
   },
   {
     "name": "Guilherme Guidini de Araujo (@adv.guiguidini) • Instagram photos and videos",
@@ -2531,7 +2611,7 @@
     "url": "https://universosoluut.com.br/campanha.php?ref=alphacred",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "Bruno Fraga | Cultura de Vendas on Instagram: \"Follow-up bom recupera venda perdida. Mas o que realm",
@@ -2559,21 +2639,22 @@
     "url": "https://promobit.com.br/oferta/ebook-procrastinacao-um-guia-cientifico-e-pratico-para-parar-de-procrastinar-3001760",
     "description": "Promoção encerrada: eBook Procrastinação: Guia Parar Procrastinar de graça na Amazon. Veja histórico de preço e ofertas com descontos parecidos!",
     "type": "links",
-    "category": "design"
+    "category": "educacao"
   },
   {
     "name": "fiquenotopo.com.br",
     "url": "https://fiquenotopo.com.br?lang=pt&currency=BRL",
     "description": "Fique no Topo do Google e da internet: anuncie no ranking, contrate nossa Consultoria SEO para a 1ª página do Google e receba milhares de visitas reais no seu site ou Instagram.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
-    "name": "drbrenogonzaga.vercel.app",
+    "name": "Drbrenogonzaga",
     "url": "https://drbrenogonzaga.vercel.app",
     "description": "Avaliação antes de qualquer tratamento, atendimento sem julgamentos e contato direto pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "entretenimento",
+    "author": "TWODEVS"
   },
   {
     "name": "GitHub · coreyhaines31/marketingskills",
@@ -2622,7 +2703,7 @@
     "url": "https://tripo3d.ai/pt",
     "description": "Crie modelos 3D grátis online com a Tripo AI — transforme seu texto ou suas imagens instantaneamente em modelos 3D de alta fidelidade, prontos para jogos, impressão 3D e animação.",
     "type": "links",
-    "category": "ia"
+    "category": "design-ui"
   },
   {
     "name": "GitHub · img2threejs/img2threejs",
@@ -2632,11 +2713,12 @@
     "category": "github"
   },
   {
-    "name": "caneca-unicornio.vercel.app",
+    "name": "Caneca Unicornio",
     "url": "https://caneca-unicornio.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Luis Roberto Outframe.Dev"
   },
   {
     "name": "GitHub · thalesholleben/copy-thief",
@@ -2674,11 +2756,12 @@
     "category": "referencias"
   },
   {
-    "name": "dr-heberson-capilar.vercel.app",
+    "name": "Dr Heberson Capilar",
     "url": "https://dr-heberson-capilar.vercel.app",
     "description": "Transplante capilar FUE fio a fio sem cicatriz linear em Goiânia.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Miguel"
   },
   {
     "name": "GitHub · zubair-trabzada/geo-seo-claude",
@@ -2692,7 +2775,7 @@
     "url": "https://reddit.com/r/FoundersBuildwithAI/s/WEe1QsciYj",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "Singapura Shopping (@singapura.shopping) • Instagram photos and videos",
@@ -2706,7 +2789,7 @@
     "url": "https://google.com/aclk?sa=L&ai=DChsSEwj6x6W2nMmWAxXdSEgAHSrjAvgYACICCAEQAxoCY2U&co=1&gclid=CjwKCAjwqc_UBhBKEiwAWbl25lK9j4Wk375abIbNzH76GMeXbkd9ZN_Q1LKxriarvZVV5y98fZFpDhoC4RMQAvD_BwE&cid=CAAS9QHkaIkeczkhMmgHQhFdvCBI-rGT5jQOOsYIu59mscENT6gycsMOPL4tHe7FeA6y9d7mQXG6QcupvcwDVLbgpXTca-Fr5Zse2cdj3RNqVzJ8UnULg8H4Gy1g8d7z1aBoPhdI_qnOpUemkNVFExrufCMjy5UoDaqhOTZprckOjCJL9u7tAfDeyx71qYlNGoZERgENeSGpROziH3HwYKomTxKMJG1bwkcwEbUgA0l2LgqMFQv579yh102PQxMrU0kvkBXvznvcpaRrR5SJe9XHJAMmwOE_Ugw-ygYZLhWiZGuoVvK1ag8RcLf7CPZbQx8_XmBv8g8eYQ&cce=1&sig=AOD64_2-aWg6y7Ah4DQxPCcqYUJeA3Rg3g&ctype=70&q=&ved=2ahUKEwj9hJ-2nMmWAxWCJ7kGHf62O2s4ChDCDygAegQICBAR&adurl=",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "arc. (@arceyul) on X",
@@ -2734,14 +2817,14 @@
     "url": "https://thiings.co/things",
     "description": "A growing collection of 10000+ icons, generated with AI. Perfect for designers and creative projects.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "icones.js.org",
     "url": "https://icones.js.org",
     "description": "Site ou referência compartilhada pela comunidade.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "dev juninho (@devjuninho) on X",
@@ -2751,11 +2834,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "gauchopampasurvival.vercel.app",
+    "name": "Gauchopampasurvival",
     "url": "https://gauchopampasurvival.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Rodrigo Ribeiro"
   },
   {
     "name": "Baius Tecnologia (@baiustecnologia) • Instagram photos and videos",
@@ -2776,7 +2860,7 @@
     "url": "https://responsively.app",
     "description": "A dev-tool that aids faster and precise responsive web development.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "Rodrigo Lima (Digão) | Especialista em Vendas on Instagram: \"Seu cliente não respondeu? Não mande: ",
@@ -2790,14 +2874,15 @@
     "url": "https://xplorerapps.site",
     "description": "Plataforma Ultra-Minimalista de Inteligência Operacional, CRM e Auditoria Financeira.",
     "type": "links",
-    "category": "referencias"
+    "category": "marketing-vendas"
   },
   {
-    "name": "despachante-sel.vercel.app",
+    "name": "Despachante Sel",
     "url": "https://despachante-sel.vercel.app",
     "description": "Documentação veicular para empresas, frotas e particulares com experiência desde 1990.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Leandro"
   },
   {
     "name": "virtushibrido.com.br · Virtus",
@@ -2807,25 +2892,26 @@
     "category": "referencias"
   },
   {
-    "name": "marcilennyimoveis.vercel.app",
+    "name": "Marcilennyimoveis",
     "url": "https://marcilennyimoveis.vercel.app",
     "description": "Compra, locação e investimento imobiliário em Manaus com atendimento personalizado e orientação próxima.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "servicos-profissionais",
+    "author": "Guilherme Felix"
   },
   {
     "name": "playwright.dev",
     "url": "https://playwright.dev",
     "description": "Web automation and testing for apps, scripts, and AI agents",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "strix.ai",
     "url": "https://strix.ai",
     "description": "AI penetration testing and autonomous security platform that tests your code, APIs, cloud, and infrastructure — and delivers validated findings with fix PRs. Start for free.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "Bianca Lolli (@BiancaLolli_) on X",
@@ -2846,28 +2932,30 @@
     "url": "https://uiverse.io",
     "description": "Community-made library of free and customizable UI elements made with CSS or Tailwind. It's all free to copy and use in your projects. Uiverse can save you many hours spent on building & customizing UI components for your next project.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
-    "name": "ana-estrela-estetica.vercel.app",
+    "name": "Ana Estrela Estetica",
     "url": "https://ana-estrela-estetica.vercel.app",
     "description": "Especialista em Pós-Parto, Diástase Abdominal e Intradermoterapia Avançada em Feira de Santana - BA.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "beleza-estetica",
+    "author": "Miguel"
   },
   {
-    "name": "thx-portfolio.vercel.app",
+    "name": "Thx Portfolio",
     "url": "https://thx-portfolio.vercel.app",
     "description": "Websites modernos e experiências digitais construídas com design, tecnologia e direção.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "joao"
   },
   {
     "name": "chibodev.com",
     "url": "https://chibodev.com",
     "description": "Sites feitos à mão, do desenho ao domínio. Nota 100 no PageSpeed em todo site no ar. Conversa de 30 minutos sem custo, valor fechado em 2 dias.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
     "name": "Leonardo Fernandes on Instagram: \"A técnica mais suja (e irresistível) pra fazer o lead te responder",
@@ -2877,18 +2965,19 @@
     "category": "redes-sociais"
   },
   {
-    "name": "guilhermefelix.vercel.app",
+    "name": "Guilhermefelix",
     "url": "https://guilhermefelix.vercel.app",
     "description": "Espaço profissional e acolhedor para atletas, técnicos, famílias e atendimento clínico. Presencial em Manaus/AM e Online.",
-    "type": "links",
-    "category": "design"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Guilherme Felix"
   },
   {
     "name": "jvfd.dev",
     "url": "https://jvfd.dev",
     "description": "Sites, sistemas web, integrações e evolução de aplicações com React, TypeScript e Next.js.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "SalonSync | Software Salão & Barbearia (@salonsyncofc) • Instagram photos and videos",
@@ -2909,7 +2998,7 @@
     "url": "https://onorca.dev",
     "description": "Orca is the Agent Development Environment (ADE) for shipping with coding agents. Run Claude Code, Codex, Gemini, Cursor CLI, and every other CLI agent in parallel across isolated worktrees. Get work done dramatically faster than any IDE. Ne",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "onorca.dev · Docs",
@@ -2937,7 +3026,7 @@
     "url": "https://letspaint.com.br",
     "description": "Criamos a presença digital do seu negócio — você vê o site pronto antes de decidir.",
     "type": "links",
-    "category": "ia"
+    "category": "negocios"
   },
   {
     "name": "fran (@senhoritha) on X",
@@ -2979,21 +3068,21 @@
     "url": "https://pixelshop.com",
     "description": "A 24/7 AI-generated home shopping channel. Submit any product URL and watch it go live on air.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "x.ai · Bot",
     "url": "https://x.ai/bot",
     "description": "Grok Bot is your team of always-on AI teammates. They have their own computer, use it like you do, and never log off.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "share.google · Aoinajgecfjuy0Wq1",
     "url": "https://share.google/aoInaJgEcfjuY0WQ1",
     "description": "O modelo de raciocínio da família Sabiá: qualidade de fronteira em português pelo menor custo da categoria, com ganhos expressivos sobre o Sabiá 4 em uso de ferramentas, jurídico e qualidade das respostas.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "OpenAI (@OpenAI) on X",
@@ -3014,7 +3103,7 @@
     "url": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-jobbol-4461021282",
     "description": "Candidate-se à vaga de Analista de Sistemas da empresa Jobbol em Goiânia, GO. Tempo integral Pleno-sênior da vaga. Veja as responsabilidades, qualificações e vagas semelhantes no LinkedIn.",
     "type": "links",
-    "category": "referencias"
+    "category": "negocios"
   },
   {
     "name": "linkedin.com",
@@ -3028,14 +3117,14 @@
     "url": "https://infiniteslop.ai/index3",
     "description": "An endless AI-generated TV channel where you decide what airs next.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "fal.ai · Minimax H3 Max",
     "url": "https://fal.ai/minimax-h3-max",
     "description": "fal's post-trained H3 Max ranks first on quality, prompt understanding and aesthetics across first-party and independent evaluations. Five free 15-second generations a day at 768p, plus 75% off through September 14.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "BridgeMind (@bridgemindai) on X",
@@ -3091,7 +3180,7 @@
     "url": "https://framer.com/marketplace/templates/categories/portfolio?pricing=free",
     "description": "Framer portfolio website templates for designers, artists, and photographers. Built around case studies, galleries, and the work you want seen first.",
     "type": "links",
-    "category": "design"
+    "category": "design-ui"
   },
   {
     "name": "Matt Shumer (@mattshumer_) on X",
@@ -3105,35 +3194,37 @@
     "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
     "description": "GPT-6 Astra ties leadership with Claude Fable 5.1 in both of our flagship Indices, at lower cost. Astra equals Fable 5.1 in the Intelligence Index at ~40% of the cost, and in the Coding Agent Index at ~60% of the cost.",
     "type": "links",
-    "category": "ia"
+    "category": "marketing-vendas"
   },
   {
     "name": "artificialanalysis.ai",
     "url": "https://artificialanalysis.ai",
     "description": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed & latency.",
     "type": "links",
-    "category": "ia"
+    "category": "seo-performance"
   },
   {
-    "name": "ele-vai-te-assumir.lovable.app",
+    "name": "Ele Vai Te Assumir",
     "url": "https://ele-vai-te-assumir.lovable.app",
     "description": "Ele te ama, mas não te assume. O Protocolo da Ausência Calculada: 30 técnicas, uma por dia, para que ele pare de enrolar e te peça em namoro.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Victor Gotfrid"
   },
   {
-    "name": "sitemarcosmoraes.vercel.app",
+    "name": "Sitemarcosmoraes",
     "url": "https://sitemarcosmoraes.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Marcos Moraes"
   },
   {
     "name": "agstudio.agvx.workers.dev",
     "url": "https://agstudio.agvx.workers.dev",
     "description": "Sites, landing pages e web apps sob medida — design autoral, performance real e entrega em semanas, não em meses.",
     "type": "links",
-    "category": "referencias"
+    "category": "seo-performance"
   },
   {
     "name": "Bianca Lolli (@BiancaLolli_) on X",
@@ -3182,14 +3273,15 @@
     "url": "https://saveclip.app/en8",
     "description": "SaveInsta is a great Instagram Downloader that allows to save and download Video, Photo, Story, IG Reels, Highlights from Instagram to any device.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
-    "name": "portf-liobrisolaagencia.vercel.app",
+    "name": "Portf Liobrisolaagencia",
     "url": "https://portf-liobrisolaagencia.vercel.app",
     "description": "Sites institucionais, landing pages e lojas virtuais pensados para fortalecer sua presença digital e facilitar novas oportunidades comerciais.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "portfolio-agencia",
+    "author": "Yuri Santos"
   },
   {
     "name": "camilascleaningservice.com",
@@ -3220,11 +3312,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "sagel-comercio.pages.dev",
+    "name": "Sagel Comercio",
     "url": "https://sagel-comercio.pages.dev",
     "description": "Pioneiros em Armazéns Gerais desde 1978 em Sorriso-MT e Ipiranga do Norte-MT. Armazenagem de grãos, secagem, classificação e emissão de warrants.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "comercio",
+    "author": "Theo Oliveira"
   },
   {
     "name": "Baius Tecnologia (@baiustecnologia) • Instagram photos and videos",
@@ -3266,7 +3359,7 @@
     "url": "https://forwardemail.net/en",
     "description": "Get free email forwarding for custom domains. Send & receive as you@yourdomain.com with unlimited aliases, 10GB storage, IMAP/POP3/SMTP & 100% open-source security. Trusted by 500K+ users. Setup in 2 minutes.",
     "type": "links",
-    "category": "ia"
+    "category": "referencias"
   },
   {
     "name": "GitHub · siddharthvaddem/openscreen",
@@ -3280,14 +3373,14 @@
     "url": "https://t.co/4xx8Vrr3VD",
     "description": "Create beautiful product visuals from your UI. Studio-quality photos and videos of software, right in the browser.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "cloudflare.com · Drop",
     "url": "https://cloudflare.com/drop",
     "description": "Drop a folder or zip. See your site live on Cloudflare's global network in seconds.",
     "type": "links",
-    "category": "desenvolvimento"
+    "category": "referencias"
   },
   {
     "name": "Dean W. Perkins (@deanwperkins) on X",
@@ -3336,14 +3429,14 @@
     "url": "https://agentrouter.org/docs/claude-code.html",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "agentrouter.org · Register",
     "url": "https://agentrouter.org/register?aff=YaMf",
     "description": "Agent Router - 内部大模型 API 网关管理控制台",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "Outframe (@outframe.dev) • Instagram photos and videos",
@@ -3378,21 +3471,21 @@
     "url": "https://openai.com/index/navier-stokes-solution",
     "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "pensamentos.app · O7Jvdvvr1Buiczrz40Yzf4 5Rq48Orelnlnx6C7Htsy",
     "url": "https://pensamentos.app/s/o7JvDVVr1BUICzRZ40yzF4-5Rq48OrELnlNx6C7HtSY",
     "description": "Alguém compartilhou uma nota com você.",
     "type": "links",
-    "category": "design"
+    "category": "ferramentas"
   },
   {
     "name": "pensamentos.app · F2Bvdetjfd3F0Mt8Dctcdqviw Cghanma5Bi9Bu Kas",
     "url": "https://pensamentos.app/s/F2bVDEtjfd3F0MT8dCTcDQViW-CGhaNma5bi9bu_Kas",
     "description": "Alguém compartilhou uma nota com você.",
     "type": "links",
-    "category": "referencias"
+    "category": "ferramentas"
   },
   {
     "name": "QClay Design (@qclay_design) on X",
@@ -3402,39 +3495,43 @@
     "category": "redes-sociais"
   },
   {
-    "name": "sohubs.com.br",
+    "name": "Sohubs",
     "url": "https://sohubs.com.br",
     "description": "SoHub conecta clientes e profissionais do Vale do Sao Francisco com uma experiencia humana, focada e profissional.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Victor Farias"
   },
   {
     "name": "remotion.dev · Skills",
     "url": "https://remotion.dev/docs/ai/skills",
     "description": "Remotion maintains a list of Agent Skills that define best practices for working in Remotion projects.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
-    "name": "calculai-steel.vercel.app",
+    "name": "Calculai Steel",
     "url": "https://calculai-steel.vercel.app",
     "description": "Ferramenta ou conteúdo relacionado a inteligência artificial.",
-    "type": "links",
-    "category": "ia"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Thomas"
   },
   {
-    "name": "drcurt.vercel.app",
+    "name": "Drcurt",
     "url": "https://drcurt.vercel.app",
     "description": "Site ou referência compartilhada pela comunidade.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Déborah"
   },
   {
-    "name": "cafezinespecial.vercel.app",
+    "name": "Cafezinespecial",
     "url": "https://cafezinespecial.vercel.app",
     "description": "Um café especial, selecionado para quem valoriza o sabor. Peça pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "alimentacao",
+    "author": "Gustavo Pinheiro"
   },
   {
     "name": "GitHub · Vincentwei1021/video-shotcraft",
@@ -3444,32 +3541,35 @@
     "category": "github"
   },
   {
-    "name": "site-total-inc.vercel.app",
+    "name": "Site Total Inc",
     "url": "https://site-total-inc.vercel.app",
     "description": "Incorporadora em Belo Horizonte. Série Recanto. Fale com a equipe pelo WhatsApp.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Adryan"
   },
   {
-    "name": "info-projekt.vercel.app",
+    "name": "Info Projekt",
     "url": "https://info-projekt.vercel.app",
     "description": "Internet de fibra da Info Projekt no Vale do Jequitinhonha.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Adryan"
   },
   {
     "name": "verter.ia.br",
     "url": "https://verter.ia.br",
     "description": "Transcrição, ata e insights em tempo real numa janela só sua, fora do screen share. App desktop para Windows.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
-    "name": "sitemedico.vercel.app",
+    "name": "Sitemedico",
     "url": "https://sitemedico.vercel.app",
     "description": "Dr. Carlos Valença, médico nutrólogo. Atendimento individualizado em nutrologia e medicina integrativa na Clínica Vértice.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "saude-bem-estar",
+    "author": "Déborah"
   },
   {
     "name": "Claude Skills 2.0 | Como usar melhor que 99% das pessoas",
@@ -3483,7 +3583,7 @@
     "url": "https://naiarapersonal.outframe.dev",
     "description": "Treinos 100% personalizados para emagrecimento, definição, reabilitação e condicionamento. Mais de 10 anos de experiência. Atendimento presencial em Florianópolis e online.",
     "type": "links",
-    "category": "ia"
+    "category": "referencias"
   },
   {
     "name": "gamemac.com · En",
@@ -3507,11 +3607,12 @@
     "category": "redes-sociais"
   },
   {
-    "name": "morape.framer.website",
+    "name": "Morape",
     "url": "https://morape.framer.website",
     "description": "Referência de design, interface ou experiência do usuário.",
-    "type": "links",
-    "category": "design"
+    "type": "projects",
+    "category": "projetos-comunidade",
+    "author": "Williams Costa"
   },
   {
     "name": "uniaoinc.com.br",
@@ -3546,21 +3647,21 @@
     "url": "https://batalhaodaiara.com.br",
     "description": "Aulas presenciais e online, eventos e uma comunidade que coloca você em movimento.",
     "type": "links",
-    "category": "ia"
+    "category": "referencias"
   },
   {
     "name": "explainx.ai · Form Cro",
     "url": "https://explainx.ai/skills/sickn33/antigravity-awesome-skills/form-cro",
     "description": "You are an expert in form optimization and friction reduction. Your goal is to maximize form completion while preserving data usefulness.",
     "type": "links",
-    "category": "ia"
+    "category": "ia-automacao"
   },
   {
     "name": "jakub.kr · Skills",
     "url": "https://jakub.kr/skills",
     "description": "Agent skills for accessibility, layout, writing, typography, color, and UI polish.",
     "type": "links",
-    "category": "referencias"
+    "category": "design-ui"
   },
   {
     "name": "Bolha Dev (@BolhaDevs) on X",
@@ -3616,7 +3717,7 @@
     "url": "https://tabnews.com.br/trindadebra/cansei-de-descobrir-na-marra-que-tinha-estourado-a-cota-da-ia-entao-construi-um-mostrador-pra-mesa",
     "description": "Uso várias ferramentas de IA no dia a dia — Claude, ChatGPT, Cursor, e mais um punhado de outras. Cada uma tem seu próprio limite de uso, que reseta em horários diferentes, e nenhuma dela...",
     "type": "links",
-    "category": "design"
+    "category": "ia-automacao"
   },
   {
     "name": "lnbits.github.io · Installer",
@@ -3630,14 +3731,14 @@
     "url": "https://themaestri.app",
     "description": "The first infinite canvas made for orchestrating AI agents. Each agent gets a role, they talk to each other directly, and the whole operation stays in front of you.",
     "type": "links",
-    "category": "referencias"
+    "category": "ia-automacao"
   },
   {
     "name": "ribeirodev.com",
     "url": "https://ribeirodev.com",
     "description": "Desenvolvedor Full-Stack. Portfólio com projetos, stack, carreira e experiência em desenvolvimento web e mobile.",
     "type": "links",
-    "category": "referencias"
+    "category": "desenvolvimento"
   },
   {
     "name": "enlacecasamentos.com.br",
@@ -3647,11 +3748,12 @@
     "category": "referencias"
   },
   {
-    "name": "agstudio.pages.dev",
+    "name": "Agstudio",
     "url": "https://agstudio.pages.dev",
     "description": "Design, desenvolvimento e IA para produtos digitais que não parecem templates.",
-    "type": "links",
-    "category": "referencias"
+    "type": "projects",
+    "category": "tecnologia",
+    "author": "Augusto Vargas Póvoa"
   },
   {
     "name": "Peng (@pengsonal) on X",
